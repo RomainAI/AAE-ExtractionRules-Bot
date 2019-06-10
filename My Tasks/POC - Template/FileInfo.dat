@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Post - Process - IQ Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/10/2019 10:28:25</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="1 - Create Flat Report - IQ Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/10/2019 18:06:11</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
