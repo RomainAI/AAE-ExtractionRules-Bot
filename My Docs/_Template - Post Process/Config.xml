@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	
+	<!-- IQ Bot Success Folder -->
+	<add key="IQ_Bot_Success_Folder" value="AAApplicationPath\Automation Anywhere\My Docs\_Template - Post Process\IQ Bot Success" />
+	
+	<!-- Results Folder -->
+	<add key="Post_Process_Results_Folder" value="AAApplicationPath\Automation Anywhere\My Docs\_Template - Post Process\Results" />
+	
+	<!-- Extraction Rules File Path -->
+	<add key="Extraction_Rules_File" value="AAApplicationPath\Automation Anywhere\My Docs\_Template - Post Process\Extraction_Rules.csv" />
+	
+	<!-- Convert IQ Bot CSV to XML and/or JSON -->
+	<add key="Convert_File_To" value="XML,JSON" />
+
+</Settings>
+

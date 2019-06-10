@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<File>
+  <Header>
+    <Invoice_Number>35008</Invoice_Number>
+    <Invoice_Date>13.03.2018</Invoice_Date>
+    <Invoice_Total>"12,642.91"</Invoice_Total>
+    <Bill_To>Automation Anywhere Inc.</Bill_To>
+  </Header>
+  <Table1>
+    <Table1_Item1>
+      <Item_Description>Setup Fee</Item_Description>
+      <Item_Quantity>1</Item_Quantity>
+    </Table1_Item1>
+    <Table1_Item2>
+      <Item_Description>Platform Fee</Item_Description>
+      <Item_Quantity>1</Item_Quantity>
+    </Table1_Item2>
+  </Table1>
+  <Table2>
+    <Table2_Item1>
+      <Item_Total>"1,500.00"</Item_Total>
+      <Unit_Price>"1,500.00"</Unit_Price>
+    </Table2_Item1>
+    <Table2_Item2>
+      <Item_Total>"10,099.00"</Item_Total>
+      <Unit_Price>"10,099.00"</Unit_Price>
+    </Table2_Item2>
+  </Table2>
+</File>

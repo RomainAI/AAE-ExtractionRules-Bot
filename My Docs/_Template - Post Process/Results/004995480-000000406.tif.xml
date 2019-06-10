@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<File>
+  <Header>
+    <Invoice_Number>AIL-17-3052-35</Invoice_Number>
+    <Invoice_Date>09.05.2017</Invoice_Date>
+    <Invoice_Total>"1,220.12"</Invoice_Total>
+    <Bill_To>Acuity Brands Lighting Inc.</Bill_To>
+  </Header>
+  <Table1>
+    <Table1_Item1>
+      <Item_Description>"Merchandise on Al L-17-3052 (35: KAN BAN # R532WH-Y)"</Item_Description>
+      <Item_Quantity> </Item_Quantity>
+    </Table1_Item1>
+  </Table1>
+  <Table2>
+    <Table2_Item1>
+      <Item_Total>"1,220.12"</Item_Total>
+      <Unit_Price> </Unit_Price>
+    </Table2_Item1>
+  </Table2>
+</File>

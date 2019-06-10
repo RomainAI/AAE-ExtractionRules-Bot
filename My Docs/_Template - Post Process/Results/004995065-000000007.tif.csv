@@ -1,0 +1,2 @@
+Invoice_Number,Invoice_Date,Invoice_Total,Bill_To,Item_Description,Item_Quantity,Item_Total,Unit_Price,Result,File Path
+1827111901,05.05.2017,69.50,UPMC,"DRAPE,FEM ANGIO.W/CHES",1,69.50,69.50,true, 

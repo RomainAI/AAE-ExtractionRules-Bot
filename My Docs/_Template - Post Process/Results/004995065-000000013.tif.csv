@@ -1,0 +1,4 @@
+Invoice_Number,Invoice_Date,Invoice_Total,Bill_To,Item_Description,Item_Quantity,Item_Total,Unit_Price,Result,File Path
+143954952,05.04.2017,71.96,UPMC,"PAPER,LTR.98BRT,WHITE,5000/CT",2,57.50,28.75,true, 
+143954952,05.04.2017,71.96,UPMC,"PEN,BP,RET,1.0MM,BK",2,6.48,3.24,true, 
+143954952,05.04.2017,71.96,UPMC,"PEN,BP,RET,1.0MM,RD",2,7.98,3.99,true, 

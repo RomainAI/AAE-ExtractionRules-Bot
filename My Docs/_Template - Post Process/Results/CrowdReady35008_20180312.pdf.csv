@@ -1,0 +1,3 @@
+Invoice_Number,Invoice_Date,Invoice_Total,Bill_To,Item_Description,Item_Quantity,Item_Total,Unit_Price,Result,File Path
+35008,13.03.2018,"12,642.91",Automation Anywhere Inc.,Setup Fee,1,"1,500.00","1,500.00",true, 
+35008,13.03.2018,"12,642.91",Automation Anywhere Inc.,Platform Fee,1,"10,099.00","10,099.00",true, 

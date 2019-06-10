@@ -1,0 +1,3 @@
+﻿Invoice_Number,Invoice_Date,Invoice_Total,Bill_To,Item_Description,Quantity,Item_Total,Unit_Price,Result,File Path
+35201,"February 13, 2018",31610.00,"Automation Anywhere, Inc.",Finance Audit Q2,1,27000.00,27000.00,true,
+35201,"February 13, 2018",31610.00,"Automation Anywhere, Inc.",Final Presentation,1,2000.00,2000,true,

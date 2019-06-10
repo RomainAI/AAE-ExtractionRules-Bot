@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<File>
+  <Header>
+    <Invoice_Number>0032155</Invoice_Number>
+    <Invoice_Date>23.01.2018</Invoice_Date>
+    <Invoice_Total>690.25</Invoice_Total>
+    <Bill_To>Automation Anywhere Inc.</Bill_To>
+  </Header>
+  <Table1>
+    <Table1_Item1>
+      <Item_Description>Bold Brand Chairs</Item_Description>
+      <Item_Quantity>4</Item_Quantity>
+    </Table1_Item1>
+    <Table1_Item2>
+      <Item_Description>Booth Coffee Table</Item_Description>
+      <Item_Quantity>1</Item_Quantity>
+    </Table1_Item2>
+  </Table1>
+  <Table2>
+    <Table2_Item1>
+      <Item_Total>250.00</Item_Total>
+      <Unit_Price>250.00</Unit_Price>
+    </Table2_Item1>
+    <Table2_Item2>
+      <Item_Total>275.00</Item_Total>
+      <Unit_Price>275.00</Unit_Price>
+    </Table2_Item2>
+  </Table2>
+</File>

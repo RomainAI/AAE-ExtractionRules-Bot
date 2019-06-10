@@ -1,0 +1,5 @@
+Invoice_Number,Invoice_Date,Invoice_Total,Bill_To,Item_Description,Item_Quantity,Item_Total,Unit_Price,Result,File Path
+0015007,23.01.2018,"55,558.50",Automation Anywhere Inc.,Booth Display Custom Bold Brand,1,"45,000.00","45,000.00",true, 
+0015007,23.01.2018,"55,558.50",Automation Anywhere Inc.,Booth Stools,6,"2,100.00",350.00,true, 
+0015007,23.01.2018,"55,558.50",Automation Anywhere Inc.,Wall Picture Panels,7,"2,800.00",400.00,true, 
+0015007,23.01.2018,"55,558.50",Automation Anywhere Inc.,8x11’ Carpet Mod:340087,1,750.00,750.00,true, 

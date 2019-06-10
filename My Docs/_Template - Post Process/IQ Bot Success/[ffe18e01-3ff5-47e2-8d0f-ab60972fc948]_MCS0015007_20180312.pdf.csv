@@ -1,0 +1,5 @@
+﻿Invoice_Number,Invoice_Date,Invoice_Total,Bill_To,Item_Description,Quantity,Item_Total,Unit_Price,Result,File Path
+0015007,1/23/2018,55558.50,"Payables Automation Anywhere, Inc.",Booth Display Custom Bold Brand,1,45000.00,45000,true,
+0015007,1/23/2018,55558.50,"Payables Automation Anywhere, Inc.",Booth Stools,6,2100.00,350,true,
+0015007,1/23/2018,55558.50,"Payables Automation Anywhere, Inc.",Wall Picture Panels,7,2800.00,400,true,
+0015007,1/23/2018,55558.50,"Payables Automation Anywhere, Inc.",8x11’ Carpet Mod:340087,1,750.00,750,true,

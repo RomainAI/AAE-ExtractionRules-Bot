@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<File>
+  <Header>
+    <Invoice_Number>35201</Invoice_Number>
+    <Invoice_Date>13.02.2018</Invoice_Date>
+    <Invoice_Total>"31,610.00"</Invoice_Total>
+    <Bill_To>Automation Anywhere Inc.</Bill_To>
+  </Header>
+  <Table1>
+    <Table1_Item1>
+      <Item_Description>Finance Audit Q2</Item_Description>
+      <Item_Quantity>1</Item_Quantity>
+    </Table1_Item1>
+    <Table1_Item2>
+      <Item_Description>Final Presentation</Item_Description>
+      <Item_Quantity>1</Item_Quantity>
+    </Table1_Item2>
+  </Table1>
+  <Table2>
+    <Table2_Item1>
+      <Item_Total>"27,000.00"</Item_Total>
+      <Unit_Price>"27,000.00"</Unit_Price>
+    </Table2_Item1>
+    <Table2_Item2>
+      <Item_Total>"2,000.00"</Item_Total>
+      <Unit_Price>"2,000.00"</Unit_Price>
+    </Table2_Item2>
+  </Table2>
+</File>

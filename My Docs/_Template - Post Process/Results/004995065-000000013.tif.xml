@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<File>
+  <Header>
+    <Invoice_Number>143954952</Invoice_Number>
+    <Invoice_Date>05.04.2017</Invoice_Date>
+    <Invoice_Total>71.96</Invoice_Total>
+    <Bill_To>UPMC</Bill_To>
+  </Header>
+  <Table1>
+    <Table1_Item1>
+      <Item_Description>"PAPER,LTR.98BRT,WHITE,5000/CT"</Item_Description>
+      <Item_Quantity>2</Item_Quantity>
+    </Table1_Item1>
+    <Table1_Item2>
+      <Item_Description>"PEN,BP,RET,1.0MM,BK"</Item_Description>
+      <Item_Quantity>2</Item_Quantity>
+    </Table1_Item2>
+    <Table1_Item3>
+      <Item_Description>"PEN,BP,RET,1.0MM,RD"</Item_Description>
+      <Item_Quantity>2</Item_Quantity>
+    </Table1_Item3>
+  </Table1>
+  <Table2>
+    <Table2_Item1>
+      <Item_Total>57.50</Item_Total>
+      <Unit_Price>28.75</Unit_Price>
+    </Table2_Item1>
+    <Table2_Item2>
+      <Item_Total>6.48</Item_Total>
+      <Unit_Price>3.24</Unit_Price>
+    </Table2_Item2>
+    <Table2_Item3>
+      <Item_Total>7.98</Item_Total>
+      <Unit_Price>3.99</Unit_Price>
+    </Table2_Item3>
+  </Table2>
+</File>

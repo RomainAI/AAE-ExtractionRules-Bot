@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<File>
+  <Header>
+    <Invoice_Number>1827111901</Invoice_Number>
+    <Invoice_Date>05.05.2017</Invoice_Date>
+    <Invoice_Total>69.50</Invoice_Total>
+    <Bill_To>UPMC</Bill_To>
+  </Header>
+  <Table1>
+    <Table1_Item1>
+      <Item_Description>"DRAPE,FEM ANGIO.W/CHES"</Item_Description>
+      <Item_Quantity>1</Item_Quantity>
+    </Table1_Item1>
+  </Table1>
+  <Table2>
+    <Table2_Item1>
+      <Item_Total>69.50</Item_Total>
+      <Unit_Price>69.50</Unit_Price>
+    </Table2_Item1>
+  </Table2>
+</File>

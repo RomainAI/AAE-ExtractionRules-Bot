@@ -1,0 +1,9 @@
+Column_Name,Column_Type,Regex_Extraction,Replace_Values,Format_Type,Format_Value,Trim_Value,Remove_Spaces,New_Column_Name,Remove_Line_If_Regex,Keep_Line_If_Regex,Best_Match_List_File,Best_Match_Confidence
+Invoice_Number,Form,,,,,,1,,^$,,,
+Invoice_Date,Form,,,date,dd.MM.yyyy,,1,,,,,
+Invoice_Total,Form,"[0-9][0-9]*\,[0-9]*\.[0-9]*|[0-9][0-9]*\.[0-9]*|[0-9][0-9]*\,[0-9]*|[0-9][0-9]*",,numeric,"#,0.00",,1,,,"[0-9][0-9]*\,[0-9]*\.[0-9]*|[0-9][0-9]*\.[0-9]*|[0-9][0-9]*\,[0-9]*|[0-9][0-9]*",,
+Bill_To,Form,,,,,1,,,,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\_Template - Post Process\External_Lists\List_Company.csv,0.1
+Item_Description,Table1,.* PO\.,"po."":""",,,,0,,,,,
+Quantity,Table1,"[0-9][0-9]*\,[0-9]*\.[0-9]*|[0-9][0-9]*\.[0-9]*|[0-9][0-9]*\,[0-9]*|[0-9][0-9]*",,numeric,"#,0.00",,1,Item_Quantity,,,,
+Item_Total,Table2,"[0-9][0-9]*\,[0-9]*\.[0-9]*|[0-9][0-9]*\.[0-9]*|[0-9][0-9]*\,[0-9]*|[0-9][0-9]*",,numeric,"#,0.00",,1,,,,,
+Unit_Price,Table2,"[0-9][0-9]*\,[0-9]*\.[0-9]*|[0-9][0-9]*\.[0-9]*|[0-9][0-9]*\,[0-9]*|[0-9][0-9]*",,numeric,"#,0.00",,1,,,,,
