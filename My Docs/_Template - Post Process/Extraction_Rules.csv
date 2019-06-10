@@ -1,9 +1,0 @@
-Column_Name,Column_Type,New_Column_Name,Remove_Line_If_Regex,Keep_Line_If_Regex,Remove_Spaces,Regex_Extraction,Replace_Values,Format_Type,Format_Value,Trim_Value,Best_Match_List_File,Best_Match_Confidence
-Invoice_Number,Form,,,,1,,,,,,,
-Invoice_Date,Form,,,,1,,,date,yyyy.MM.dd,,,
-Invoice_Total,Form,,,,1,"\d\d*,\d\d*\.\d\d*|\d\d*.\d\d*|\d\d*",,numeric,"#,0.00",,,
-Bill_To,Form,Bill_To_Company_Name,,,,,,,,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\_Template - Post Process\External_Lists\List_Company.csv,0.5
-Item_Description,Table,,,,,.*(?i)po\.|.+,"po."":""",,,,,
-Quantity,Table,Item_Quantity,,\d\d*,1,\d\d*,,numeric,0,,,
-Item_Total,Table,,,,1,"\d\d*,\d\d*\.\d\d*|\d\d*.\d\d*|\d\d*",,numeric,"#,0.00",,,
-Unit_Price,Table,,,,1,"\d\d*,\d\d*\.\d\d*|\d\d*.\d\d*|\d\d*",,numeric,"#,0.00",,,
